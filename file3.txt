@@ -1,3 +1,5 @@
-This is a first_b edit for file conflict!
+This is happening, first_b edit for file conflict!
 
-And now its more conflicting!
+And now its 
+
+One more thing
